@@ -15,3 +15,4 @@ The Legal Vault is an AI powered app that will help domestic violence victims fi
 3. Create a .env file and add a `OPENAI_API_KEY=` variable (get your API key from [OpenAI](https://platform.openai.com/organization/api-keys)).
 4. Run `pip install -r requirements.txt` in the terminal.
 5. Run `fastapi run main.py` .
+6. Run `python telegram_bot.py` .
